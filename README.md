@@ -13,10 +13,6 @@ Amaç, **müşteri segmentasyonu, gelir optimizasyonu ve operasyonel verimlilik*
 
 ## 🧩 Veri Modeli (ERD)
 
-Aşağıda projede kullanılan veri modelinin (Entity Relationship Diagram) görseli yer almaktadır:
-
-![ERD Diagram](A_Entity-Relationship_Diagram_(ERD)_in_a_digital_2.png)
-
 **Tablolar:**
 - Customers  
 - Tickets  
